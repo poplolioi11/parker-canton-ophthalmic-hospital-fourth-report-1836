@@ -1,0 +1,29 @@
+{
+  "cff-version": "1.2.0",
+  "message": "Please cite the dataset version and the original publication.",
+  "type": "dataset",
+  "title": "廣州眼科醫院第四季報（1836） / The Fourth Quarterly Report of the Ophthalmic Hospital at Canton, for the Term Ending on the 4th of November, 1836 — Transcription Dataset",
+  "version": "0.1.0",
+  "date-released": "2026-11-19",
+  "authors": [
+    {
+      "given-names": "Chen-Yu",
+      "family-names": "Chu",
+      "orcid": "https://orcid.org/0009-0003-9738-6914"
+    }
+  ],
+  "repository-code": "https://github.com/poplolioi11/parker-canton-ophthalmic-hospital-fourth-report-1836",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "廣州眼科醫院",
+    "伯駕",
+    "Peter Parker",
+    "Canton",
+    "Guangzhou",
+    "medical missions in China",
+    "history of ophthalmology",
+    "hospital reports",
+    "patient narratives",
+    "historical transcription"
+  ]
+}
