@@ -3,7 +3,7 @@
   "message": "Please cite the dataset version and the original publication.",
   "type": "dataset",
   "title": "廣州眼科醫院第四季報（1836） / The Fourth Quarterly Report of the Ophthalmic Hospital at Canton, for the Term Ending on the 4th of November, 1836 — Transcription Dataset",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "date-released": "2026-11-19",
   "authors": [
     {
